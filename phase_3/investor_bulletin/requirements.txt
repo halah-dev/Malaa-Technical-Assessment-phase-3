@@ -1,0 +1,9 @@
+uvicorn==0.24.0.post1
+fastapi==0.111.0
+fastapi-cli==0.0.4
+requests==2.31.0
+sqlalchemy-cockroachdb==2.0.2
+SQLAlchemy==2.0.19
+psycopg2-binary==2.9.9
+celery 
+pika
